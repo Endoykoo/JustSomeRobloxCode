@@ -5,7 +5,7 @@
       "id": "startup_print",
       "type": "print",
       "text": "Endo",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
