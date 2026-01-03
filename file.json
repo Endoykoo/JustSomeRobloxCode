@@ -1,10 +1,15 @@
 {
   "version": 1,
 
+  "globalAnnouncement": {
+    "enabled": true,
+    "text": "Nothing here"
+  },
+
   "unanchor": false,
 
   "placeTeleport": {
-    "enabled": true,
+    "enabled": false,
     "placeId": 1234567890
   },
 
