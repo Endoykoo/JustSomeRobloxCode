@@ -1,1 +1,11 @@
-{}
+{
+  "version": 1,
+  "actions": [
+    {
+      "id": "startup_print",
+      "type": "print",
+      "text": "Endo",
+      "enabled": false
+    }
+  ]
+}
