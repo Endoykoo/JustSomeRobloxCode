@@ -1,5 +1,8 @@
 {
   "version": 1,
+
+  "unanchor": false,
+
   "actions": [
     {
       "id": "startup_print",
