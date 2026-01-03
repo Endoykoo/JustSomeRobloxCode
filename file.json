@@ -3,6 +3,11 @@
 
   "unanchor": false,
 
+  "placeTeleport": {
+    "enabled": false,
+    "placeId": 1234567890
+  },
+
   "actions": [
     {
       "id": "startup_print",
